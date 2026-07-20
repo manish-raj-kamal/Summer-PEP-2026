@@ -9,4 +9,3 @@ FoodDelivery
 - `sample_data.sql` - Inserts sample records.
 - `questions.sql` - Assessment questions.
 - `answers.sql` - SQL solutions.
-- `SQL ASSESSMENT.pdf` - Original assessment document.
