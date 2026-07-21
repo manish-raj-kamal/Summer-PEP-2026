@@ -1,7 +1,6 @@
 # Summer PEP Class
 
-## Files & Folders
-### Folders
+## Folders
 - `Food Delivery` - Class Task
 
-### Files
+## Files
